@@ -1,9 +1,7 @@
 syntax enable
-colorscheme badwolf
 
 set number
 set wildmenu
-set cursorline
 
 set ignorecase
 set smartcase
